@@ -2,6 +2,7 @@
 let nome = "lari";
 //coloque uma quantidade de xp
 let xp =  11000;
+//o nivel vai ser classificado de acordo com o xp
 let nivel = "";
 
 if (xp < 1000){
